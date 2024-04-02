@@ -1,3 +1,6 @@
+# Demo
+<img src="chickenCompass.gif" height="395" width="200">
+
 # Setup
 Hosted on Snack: https://snack.expo.dev/@ndelafuente/onelove
 
