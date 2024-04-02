@@ -15,6 +15,7 @@
       "**/*"
     ],
     "ios": {
+      "bundleIdentifier": "com.ndelafuente.OneLove",
       "supportsTablet": true
     },
     "android": {
